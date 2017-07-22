@@ -1,0 +1,72 @@
+#modal-error {
+	display: none;
+}
+
+#page-admin-fundraisers #body .list-group {
+	margin-top: 16px;
+}
+
+#body .glyphicon {
+	font-size: 18px;
+	margin-right: 8px;
+}
+
+#page-admin-home {
+	min-height: 400px;
+}
+
+#page-admin-fundraisers #body h4 {
+	display: inline;
+	margin-left: 8px;
+}
+
+#add-fundraiser {
+	margin-bottom: 24px;
+}
+
+.modal-body h3 {
+	text-align: center;
+	margin-bottom: 16px;
+}
+
+ul.dtr-details {
+	list-style-type: none;
+}
+
+.dtr-title {
+	font-weight: bold;
+}
+
+.dtr-title:after {
+	content: ":";
+}
+
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+	color: #C1C1C1;
+}
+#reviews-fundraiserid {
+	height: 40px;
+	font-size: 20px;
+}
+
+p.footer {
+	text-align: right;
+	font-size: 11px;
+	border-top: 1px solid #D0D0D0;
+	line-height: 32px;
+	padding: 0 10px 0 10px;
+	margin: 20px 0 0 0;
+}
+
+@media screen and (max-width: 768px) {
+	#page-admin-fundraisers #body .glyphicon {
+		font-size: 22px;
+	}
+}
+
+@media screen and (max-width: 540px) {
+	#approve-submit, #approve-delete {
+		display: block;
+		margin: 8px auto;
+	}
+}

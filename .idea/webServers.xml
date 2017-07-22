@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9167969d-0245-40ed-8cf5-678f344f3e39" name="vbadvanced.com" url="http://52.23.38.186">
+        <fileTransfer host="52.23.38.186" port="22" privateKey="G:\Documents\Keypair\aws_putty.ppk" accessType="SFTP" username="ubuntu" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
